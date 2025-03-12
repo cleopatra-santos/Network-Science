@@ -9,4 +9,4 @@ The projects may include:
 ✔️ Graph visualization  
 ✔️ Case studies and real-world applications  
 
-Feel free to explore and contribute!   
+
